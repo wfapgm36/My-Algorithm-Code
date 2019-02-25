@@ -2,7 +2,7 @@
 
 // 선택 정렬
 // 가장 작은 것을 선택해서 제일 앞으로 보내는 알고리즘
-
+// O(N^2)
 int main(void) {
 	int i, j, min, index, temp;
 	int array[10] = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
